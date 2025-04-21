@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <header className="p-[15px] shadow-xl bg-red-950">
+      <header className="p-[15px] shadow-xl bg-red-500">
         <div className="max-w [1200px] mx-auto flex items-center">
           <div className="w-[100px]">
             <img
